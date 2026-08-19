@@ -27,7 +27,15 @@ This project focuses on Exploratory Data Analysis (EDA) using Python and statist
 - Boxplot analysis
 - Identification of outliers
 - Data visualization
+- 
+## 💻 Tech Stack
 
+- **Programming Language:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib
+- **Environment:** Jupyter Notebook
+- **Concepts:** Statistics, Exploratory Data Analysis (EDA)
+- 
 ## 📈 Visualizations
 The project includes visualizations to understand the distribution, patterns, and characteristics of the dataset.
 
