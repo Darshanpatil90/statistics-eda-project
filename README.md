@@ -31,6 +31,14 @@ This project focuses on Exploratory Data Analysis (EDA) using Python and statist
 ## 📈 Visualizations
 The project includes visualizations to understand the distribution, patterns, and characteristics of the dataset.
 
+## 🔍 Key Insights
+
+- Analyzed the dataset using descriptive statistical techniques.
+- Examined data distribution using visualizations.
+- Used boxplot analysis to identify potential outliers.
+- Explored patterns and characteristics present in the dataset.
+- Applied Python and statistical concepts to perform practical EDA.
+
 ## 📁 Project Files
 - `EDA_Project.ipynb` – Jupyter Notebook containing the complete analysis
 - `dataset.csv` – Dataset used for the analysis
