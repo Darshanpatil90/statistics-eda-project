@@ -43,6 +43,16 @@ The project includes visualizations to understand the distribution, patterns, an
 
 - [Bank_Customer_Churn_EDA.ipynb](https://github.com/Darshanpatil90/statistics-eda-project/blob/main/Bank_Customer_Churn_EDA.ipynb) – Jupyter Notebook containing the complete EDA
 - `dataset.csv` – Dataset used for the analysis
+
+- ## ⭐ Project Highlights
+
+- Performed Exploratory Data Analysis on a Bank Customer Churn dataset
+- Applied statistical techniques to understand customer data
+- Analyzed data distribution and identified potential outliers
+- Created visualizations using Python libraries
+- Used Pandas and NumPy for data analysis and preprocessing
+- Used Matplotlib for data visualization
+- Documented the complete analysis in Jupyter Notebook
   
 
 ## 🏁 Conclusion
