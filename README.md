@@ -40,8 +40,10 @@ The project includes visualizations to understand the distribution, patterns, an
 - Applied Python and statistical concepts to perform practical EDA.
 
 ## 📁 Project Files
-- `EDA_Project.ipynb` – Jupyter Notebook containing the complete analysis
+
+- [Bank_Customer_Churn_EDA.ipynb](https://github.com/Darshanpatil90/statistics-eda-project/blob/main/Bank_Customer_Churn_EDA.ipynb) – Jupyter Notebook containing the complete EDA
 - `dataset.csv` – Dataset used for the analysis
+  
 
 ## 🏁 Conclusion
 The EDA process helped in understanding the dataset through statistical analysis and visualizations. The project demonstrates the practical application of Python and Statistics for extracting meaningful insights from data.
